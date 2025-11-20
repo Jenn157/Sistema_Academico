@@ -1,0 +1,16 @@
+# Entornos virtuales de Python
+venv/
+*.pyc
+__pycache__/
+
+# Dependencias de Node.js
+vista_colegio/node_modules/
+vista_colegio/build/
+
+# Archivos de log y configuración local
+.env
+*.log
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
